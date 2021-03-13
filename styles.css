@@ -10,7 +10,7 @@ body {
     margin: 8% 12% 0%;
     height: 100%;
     overflow-x: hidden;
-    background-image: url("./images/bg-pattern-top-desktop.svg"), url("./images/bg-pattern-bottom-desktop.svg");
+    background-image: url("/images/bg-pattern-top-desktop.svg"), url("/images/bg-pattern-bottom-desktop.svg");
     background-position: top left, bottom right;
     background-repeat: no-repeat;
 }
